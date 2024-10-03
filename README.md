@@ -1,7 +1,8 @@
-# Hi there, I'm Bithi! 👋
+### Hi there 👋, my name is MS Bithi
+#### I am Web Application Developer and Researcher
+![I am Web Application Developer and Researcher](https://media.licdn.com/dms/image/v2/D5616AQFoPXgCheZfEw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727974714661?e=1733356800&v=beta&t=l5g3U1oKNMxFopDrxhAC8QeNgcbR207QyJ4L0AFEqO8)
 
 Welcome to my GitHub corner! I'm a **.NET Web Application Developer Intern** at **TechHub** under **Save the Children**, constantly growing my expertise in **web development** and deep diving into **AI** and **machine learning** research. 🧠💻
-(https://media.licdn.com/dms/image/v2/D5616AQFoPXgCheZfEw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727974714661?e=1733356800&v=beta&t=l5g3U1oKNMxFopDrxhAC8QeNgcbR207QyJ4L0AFEqO8)
 
 ---
 
