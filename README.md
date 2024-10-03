@@ -40,6 +40,10 @@ Right now, I'm focused on:
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bithi769845)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌟 Let's Connect!
 Looking to collaborate or discuss exciting projects? Feel free to connect with me on my platforms. Reach out! 👇
 - **GitHub:** [GitHub Link](https://github.com/bithi769845)
