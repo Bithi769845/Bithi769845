@@ -43,8 +43,8 @@ I am currently diving into:
 
 ## 📫 Get in Touch
 Feel free to connect with me on my platforms:
-- **GitHub:** [Your GitHub Link](https://github.com/bithi769845)
-- **Kaggle:** [Your Kaggle Link](https://www.kaggle.com/msbithi)
-- **LinkedIn:** [Your LinkedIn Link](https://www.linkedin.com/in/ms-bithi-baa851219)
+- **GitHub:** [GitHub Link](https://github.com/bithi769845)
+- **Kaggle:** [Kaggle Link](https://www.kaggle.com/msbithi)
+- **LinkedIn:** [LinkedIn Link](https://www.linkedin.com/in/ms-bithi-baa851219)
 
 Let’s collaborate and create something amazing together! 🌟
