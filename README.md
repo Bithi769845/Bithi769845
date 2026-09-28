@@ -50,8 +50,8 @@ I'm a **Junior Software Engineer at Save the Children** (Dhaka, Bangladesh), bui
 - 💻 HackerRank SQL Badge
 
 ---
+(https://github.com/anuraghazra/github-readme-stats)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bithi769845)
 
-[GitHub streak stats](https://streak-stats.demolab.com/?user=Bithi769845)
 
 ---
 
