@@ -51,7 +51,7 @@ I'm a **Junior Software Engineer at Save the Children** (Dhaka, Bangladesh), bui
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bithi769845)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bithi769845)
+[(https://github-readme-stats.vercel.app/api/top-langs/?username=Bithi769845)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bithi769845)
 
 ---
 
