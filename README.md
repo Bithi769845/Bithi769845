@@ -1,14 +1,14 @@
 ### Hi there 👋, I'm MS Bithi
 #### AI Security Researcher (Federated Learning & Cybersecurity) | Junior Software Engineer
 
-I'm a **Junior Software Engineer at Save the Children** (Dhaka, Bangladesh), building enterprise applications with **ASP.NET Core MVC, Blazor and C#**. Alongside that, I do research on **privacy-preserving security systems** using **Federated Learning**, with two first-author papers in **Scientific Reports (Nature Portfolio, Q1)**.
+I do research on **privacy-preserving security systems** using **Federated Learning**, with two first-author papers in **Scientific Reports (Nature Portfolio, Q1)**.
 
 ---
 
 ## 🔬 Research Focus
-- Federated Learning for intrusion detection (UAV, IoT, maritime radar)
+- Federated Learning for intrusion detection (UAV, IoT, Maritime Radar)
 - Non-IID-robust and adaptive aggregation algorithms
-- Emerging directions: federated unlearning, feature heterogeneity, healthcare FL
+- Emerging directions: Federated Unlearning, Feature Heterogeneity, Healthcare FL
 - Interests: Explainable AI for security, Adversarial ML, LLM/VLM-based security automation, Agentic AI for cyber defense
 
 ---
@@ -25,13 +25,13 @@ I'm a **Junior Software Engineer at Save the Children** (Dhaka, Bangladesh), bui
 ---
 
 ## 🔧 Tech Toolbox
-- **Languages:** Python, C#, C/C++, SQL, JavaScript, HTML5 & CSS3
-- **Web:** ASP.NET Core MVC, Blazor, Entity Framework, Bootstrap, Tailwind CSS
+- **Languages:** Python, C#, JavaScript
 - **Databases:** SQL Server, MySQL
 - **Federated Learning:** Flower, TensorFlow Federated, FedAvg, FedAdam, FedProx, FedMedian, ClusterAvg
 - **ML / DL:** PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, CNN, LSTM, Cross-Attention
-- **Security:** Wireshark, IDS / anomaly detection, SDN, DDoS defense
+- **Security:** Wireshark, IDS / anomaly detection, SDN, DDoS Defense
 - **Tools:** Git, Visual Studio, VS Code, Google Colab, Kaggle, Zotero
+- **Web:** ASP.NET Core MVC, Blazor, Entity Framework, Bootstrap, Tailwind CSS
 
 ---
 
@@ -44,7 +44,7 @@ I'm a **Junior Software Engineer at Save the Children** (Dhaka, Bangladesh), bui
 ---
 
 ## 🏆 Highlights
-- 🎓 B.Sc. in CSE, Prime University: CGPA 3.83 / 4.00, merit scholarships
+- 🎓 B.Sc. in CSE, Prime University: CGPA 3.83 / 4.00, Merit Scholarships
 - 🥇 Champion Poster Presentation, CSE Fest 2024
 - 🎤 IEEE conference paper presentation, ICCCNT 2024
 - 💻 HackerRank SQL Badge
